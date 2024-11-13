@@ -80,4 +80,4 @@ int main() {
 ![image](https://github.com/user-attachments/assets/ad041ce9-acfb-473a-8887-7275944d8732)
 
 # RESULT
-## The lexical analyzer is implemented using lex and the output is verified.
+  The lexical analyzer is implemented using lex and the output is verified.
